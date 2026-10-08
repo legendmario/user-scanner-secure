@@ -1,0 +1,11 @@
+# Core scanner suite (versión actualizada con soporte TLS fingerprinting)
+user-scanner>=1.5.2
+httpx>=0.27.0
+curl-cffi>=0.7.0
+requests>=2.32.3
+urllib3>=2.2.2
+colorama>=0.4.6
+
+# Seguridad y Auditoría de Dependencias
+pip-audit>=2.7.3
+bandit>=1.7.9

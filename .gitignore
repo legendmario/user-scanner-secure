@@ -1,0 +1,23 @@
+# Entornos virtuales
+venv/
+env/
+.env
+
+# Resultados de escaneo y datos sensibles
+results/
+*.json
+*.csv
+*.xlsx
+*.txt
+!requirements.txt
+
+# Caché de Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Configuración del sistema y editor
+.idea/
+.vscode/
+*.swp
+*.log
