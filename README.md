@@ -48,7 +48,7 @@ Este repositorio no es un simple script, sino un entorno fortificado (*Hardened*
 
 ### 1. Clonar el repositorio
 ```bash
-git clone https://github.com/TU-USUARIO/user-scanner-secure.git
+git clone https://github.com/legendmario/user-scanner-secure.git
 cd user-scanner-secure
 ```
 
